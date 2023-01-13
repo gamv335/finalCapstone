@@ -1,4 +1,4 @@
-# H1                                                                 finalCapstone
+# finalCapstone
 
 ## Table of Contents
 1. [Description](https://github.com/gamv335/finalCapstone/blob/main/README.md#table-of-contents)
