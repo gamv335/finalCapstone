@@ -1,5 +1,14 @@
 # H1                                                                 finalCapstone
-# Description
+
+## Table of Contents
+
+## Description
 The program available in this repository aims to allow user to manage inventory levels of SKUs across diverse geographical locations. 
+
+## Installation
+
+## Usage
+
+## Credits
 
 
