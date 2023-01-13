@@ -16,9 +16,9 @@ Once you have Python and Git installed, you can use the following steps to run t
 
 Open a command prompt or terminal window.
 
-Use the "git clone" command to download the file from GitHub. For example:
+Use the "git clone" command to download the file from GitHub:
 
-    git clone https://github.com/<username>/<repository>.git
+    git clone https://github.com/gamv335/finalCapstone.git
 
 Navigate to the directory where the file was downloaded. For example:
 
