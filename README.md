@@ -35,7 +35,14 @@ Dependencies required to run the program, may also need to install those using p
 Please make sure the requirements.txt file is present in the same directory where the script is located, also ensure to have internet connection as pip will download the dependencies from the internet.
 
 ## Usage
+The program open up a menu with the following features:
+1. Update shoe list from database: automatically reads the database file and update the relevant variables.
+2. Add stock entry: Allow a field by field entry of a stock.
+3. Code search SKU: Allos the user to enter a SKU number and return the stock data of the product. 
+4. Display stock data: Prints a table with the latest stock data including total cost of the inventory per stock entry.
+5. Re-stock tool: Finds the lowest stock entry and ask the user if wants to add stock and how many.
+6. Run automated sale: Run a 20% discount on the entry with highest stock levels.
 
 ## Credits
-
+* gamv335
 
